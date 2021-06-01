@@ -6,7 +6,7 @@
     
 I wanted to create the back end portion of an E-Commerce website as an exercise to gain experience using Sequelize as an ORM to create models for MySQL, and using Express routes for handling CRUD requests.
 
-
+In completing this project, I learned about using Sequelize as an ORM and Insomnia to test routes and CRUD requests.
     
 ## Table of Contents
     
@@ -24,6 +24,8 @@ To use the employee tracker, clone the repository by running "git clone `git@git
 ## Usage
     
 Users are free to use this exercise as a tool for structuring back end databases and routes, and build out the functionality of this application.
+
+As there is no front end, users must use Insomnia or Postman or similar platform for testing routes and CRUD requests.
 
 Video tutorial #1: https://youtu.be/dmV2eg4JqAc
 Video tutorial #2: https://youtu.be/UUIAOrwpSt4
