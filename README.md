@@ -29,7 +29,7 @@ Users are free to use this exercise as a tool for structuring back end databases
 
 As there is no front end, users must use Insomnia or Postman or similar platform for testing routes and CRUD requests.
 
-Video tutorial #1: https://youtu.be/dmV2eg4JqAc
+Video tutorial #1: https://youtu.be/dmV2eg4JqAc<br>
 Video tutorial #2: https://youtu.be/UUIAOrwpSt4
     
 ## License
