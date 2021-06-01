@@ -6,6 +6,8 @@
     
 I wanted to create the back end portion of an E-Commerce website as an exercise to gain experience using Sequelize as an ORM to create models for MySQL, and using Express routes for handling CRUD requests.
 
+Users can use this project to build a database of products, categories and tags, and manipulate the database via CRUD requests through Insomnia or Postman or similar platform.
+
 In completing this project, I learned about using Sequelize as an ORM and Insomnia to test routes and CRUD requests.
     
 ## Table of Contents
